@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pube14e5x-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pube14e5x-java-springboot-gitops
